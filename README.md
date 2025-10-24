@@ -1,4 +1,4 @@
-#🎮 Tres en Raya (PHP MVC)
+# 🎮 Tres en Raya (PHP MVC)
 
 Este proyecto está desarrollado en **PHP** siguiendo el patrón **Modelo–Vista–Controlador (MVC)**.  
 Permite jugar una partida de *Tres en Raya* entre dos jugadores, gestionando turnos, detección de ganador y reinicio del juego mediante sesiones.
