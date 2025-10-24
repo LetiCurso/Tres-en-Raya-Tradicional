@@ -14,8 +14,12 @@ Permite jugar una partida de *Tres en Raya* entre dos jugadores, gestionando tur
 
 
 ### 🖼️ Vista previa del proyecto  
-Ver video en YouTube 👇  
-🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=02dWuzJPxKw)
+
+[![Ver video en YouTube](https://img.youtube.com/vi/02dWuzJPxKw/0.jpg)](https://youtu.be/02dWuzJPxKw)
+
+👉 **Haz clic en la imagen o en el siguiente enlace para ver el proyecto en funcionamiento:**
+
+🔗 [Ver video en YouTube](https://youtu.be/02dWuzJPxKw)
 
 
 ### 🧰 Tecnologías utilizadas
